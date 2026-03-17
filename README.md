@@ -80,7 +80,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ## 🖼️ Dashboard Preview
 
-See the result Mutual Fund Dashboard .png
+![Mutual Fund Dashboard Preview](https://github.com/kishansingh890kiit/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ---
 
