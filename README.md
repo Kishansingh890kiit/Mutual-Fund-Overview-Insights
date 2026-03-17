@@ -113,8 +113,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ## 📁 Files in This Repository
 
-| File | Description |
-|------|-------------|
+| Files |
  | Final top 30 filtered mutual funds |
 | Power BI dashboard |
  | Dashboard image preview |
